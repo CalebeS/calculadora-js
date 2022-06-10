@@ -45,4 +45,6 @@
 
 .meu-nome {
   padding: 10px 20px 30px;
+  color: black;
+  box-shadow: 10px 5px 5px black;
 }
